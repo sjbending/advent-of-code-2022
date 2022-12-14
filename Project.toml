@@ -3,5 +3,6 @@ uuid = "0d90c982-77be-11ed-3b87-f5793c6aad50"
 version = "0.0.1"
 
 [deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
 JuliaFormatter = "98e50ef6-434e-11e9-1051-2b60c6c9e899"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
